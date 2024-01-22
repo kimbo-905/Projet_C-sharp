@@ -1,0 +1,6 @@
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/bin/Debug/Projet_C_sharp.exe
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/bin/Debug/Projet_C_sharp.pdb
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/obj/Debug/Projet_C-sharp.csproj.AssemblyReference.cache
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/obj/Debug/Projet_C-sharp.csproj.CoreCompileInputs.cache
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/obj/Debug/Projet_C_sharp.exe
+/Users/khadimkebe/RiderProjects/Projet_C-sharp/obj/Debug/Projet_C_sharp.pdb
